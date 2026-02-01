@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom Georgian EPG">
+
+  <channel id="ImediTV.ge">
+    <display-name>Imedi TV</display-name>
+  </channel>
+
+  <!-- დღე 1 -->
+  <programme start="20260130000000 +0400" stop="20260130060000 +0400" channel="ImediTV.ge">
+    <title>ახალი ამბები</title>
+    <desc>ღამის გამოშვება</desc>
+  </programme>
+
+  <programme start="20260130060000 +0400" stop="20260130120000 +0400" channel="ImediTV.ge">
+    <title>საინფორმაციო გადაცემები</title>
+    <desc>დილიდან დღის ჩათვლით</desc>
+  </programme>
+
+  <programme start="20260130120000 +0400" stop="20260130180000 +0400" channel="ImediTV.ge">
+    <title>დღის ამბები</title>
+    <desc>მთავარი მოვლენები</desc>
+  </programme>
+
+  <programme start="20260130180000 +0400" stop="20260130235959 +0400" channel="ImediTV.ge">
+    <title>საღამოს ახალი ამბები</title>
+    <desc>დღის შეჯამება</desc>
+  </programme>
+
+  <!-- დღე 2–7 (ერთი ბლოკი, რომ ყოველთვის ჩანდეს) -->
+  <programme start="20260131000000 +0400" stop="20260205235959 +0400" channel="ImediTV.ge">
+    <title>Imedi TV Live</title>
+    <desc>მიმდინარე ეთერი – 7 დღიანი EPG</desc>
+  </programme>
+
+</tv>
