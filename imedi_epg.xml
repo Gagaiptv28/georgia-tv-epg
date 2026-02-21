@@ -5,7 +5,7 @@
     <display-name>Imedi TV</display-name>
   </channel>
 
-  <!-- დღე 1 -->
+  <!-- დღე 2 -->
   <programme start="20260130000000 +0400" stop="20260130060000 +0400" channel="ImediTV.ge">
     <title>ახალი ამბები</title>
     <desc>ღამის გამოშვება</desc>
@@ -26,10 +26,11 @@
     <desc>დღის შეჯამება</desc>
   </programme>
 
-  <!-- დღე 2–7 (ერთი ბლოკი, რომ ყოველთვის ჩანდეს) -->
+  <!-- დღე 0–7 (ერთი ბლოკი, რომ ყოველთვის ჩანდეს) -->
   <programme start="20260131000000 +0400" stop="20260205235959 +0400" channel="ImediTV.ge">
     <title>Imedi TV Live</title>
     <desc>მიმდინარე ეთერი – 7 დღიანი EPG</desc>
   </programme>
+
 
 </tv>
